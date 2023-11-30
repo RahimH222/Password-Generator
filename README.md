@@ -43,3 +43,4 @@ Output Function:
 
 Create a function to display the generated password to the user.
 Optionally, include functionality to copy the password to the clipboard.
+<img width="960" alt="Screenshot 2023-11-30 035206" src="https://github.com/RahimH222/Password-Generator/assets/151723987/cc82ced5-f8b4-49b8-a56e-dbc7cce1d7d6">
